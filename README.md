@@ -13,9 +13,11 @@ This is a Node.js application for managing users and astrologers in an astrology
 
 
 2. Install dependencies: ` npm install express mongoose nodemon `
+
+3. Run Project : ` npm run start `
   
 
-3. Set up MongoDB Atlas:
+4. Set up MongoDB Atlas:
 
    - Create a new cluster and database in MongoDB Atlas.
    - Obtain the connection string for your cluster.
